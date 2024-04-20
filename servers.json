@@ -1,0 +1,52 @@
+[
+    {
+        "playersCount": 1615,
+        "available": true,
+        "name": "🗽New York"
+    },
+    {
+        "playersCount": 1596,
+        "available": true,
+        "name": "🏭Detroit"
+    },
+    {
+        "playersCount": 0,
+        "available": true,
+        "name": "🌃Chicago"
+    },
+    {
+        "playersCount": 1924,
+        "available": true,
+        "name": "🌉San Francisco"
+    },
+    {
+        "playersCount": 1204,
+        "available": true,
+        "name": "🕌Atlanta"
+    },
+    {
+        "playersCount": 1261,
+        "available": true,
+        "name": "🏄San Diego"
+    },
+    {
+        "playersCount": 1956,
+        "available": true,
+        "name": "🍀Los Angeles"
+    },
+    {
+        "playersCount": 0,
+        "available": true,
+        "name": "🌴Miami"
+    },
+    {
+        "playersCount": 2395,
+        "available": true,
+        "name": "💰Las Vegas"
+    },
+    {
+        "playersCount": 3556,
+        "available": true,
+        "name": "🗼Washington"
+    }
+]
